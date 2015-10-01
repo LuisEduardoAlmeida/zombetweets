@@ -1,11 +1,11 @@
 Twitter in 15 minutesBasics
 
-● Ruby (version 1.9.3)
+● Ruby (version 1.9.3)\n
   ○ Linux=> by RVM (http://beginrescueend.com/)
   ○ Mac=> by RVM (http://beginrescueend.com/)
   ○ Windows => by Ruby installer (http://rubyinstaller.org/)
   
-● Bundler (version 1.0.21)
+● Bundler (version 1.0.21) \n
   ○ gem install bundler
   
 ● Add to your ~/.gemrc file:
