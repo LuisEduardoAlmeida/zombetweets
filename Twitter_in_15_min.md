@@ -1,18 +1,19 @@
 Twitter in 15 minutesBasics
 
 ● Ruby (version 1.9.3)
-○ Linux
-=> by RVM (http://beginrescueend.com/)
-
-○ Mac
-=> by RVM (http://beginrescueend.com/)
-○ Windows => by Ruby installer (http://rubyinstaller.org/)
+  ○ Linux=> by RVM (http://beginrescueend.com/)
+  ○ Mac=> by RVM (http://beginrescueend.com/)
+  ○ Windows => by Ruby installer (http://rubyinstaller.org/)
+  
 ● Bundler (version 1.0.21)
   ○ gem install bundler
+  
 ● Add to your ~/.gemrc file:
   ○ gem: --no-ri --no-rdoc
+  
 ● Rails (version 3.2)
   ○ gem install railsGetting database created
+  
 rails new twitter --database postgresql
 cd twitter
 git init
