@@ -1,2 +1,2 @@
-# zombetweets
+# zombietweets
 zombietweets
